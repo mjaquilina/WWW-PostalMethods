@@ -6,6 +6,8 @@ use warnings;
 use SOAP::Lite;
 use MIME::Base64;
 
+our $VERSION = 0.01;
+
 =head1 NAME
 
 WWW::PostalMethods - Interface to the PostalMethods API
